@@ -29,11 +29,9 @@ I'm a Software Engineer Engineer Student.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-heav&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayisagit&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manuel-heav&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=bayisagit&theme=gruvbox&border_radius=4.5)
 #
  
 
-[website]: https://bit.ly/3sAc4Nj
-[youtube]: https://www.youtube.com/@siliconaddis
