@@ -1,7 +1,7 @@
 # :🧑‍💻 Bayisa Daba
 ![](https://github.com/bayisagit/bayisagit/blob/main/README.md)
 
-**`React Beginner django junior (React, Django, Mysql)`**
+**`React junior django junior (React, Django, Mysql)`**
 
 I'm a Software Engineering Student. 
   ---
