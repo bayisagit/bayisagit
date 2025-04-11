@@ -28,7 +28,7 @@ I'm a Software Engineering Student.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="github.png" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px; background-color: blue; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <br />
-
+<!-- profile -->
 #
 
 ### 📊 Stats
