@@ -4,6 +4,12 @@
 **`React juniour django junior (React, Django, Mysql)`**
 
 I'm a Software Engineering Student. 
+
+[![GitHub followers](https://img.shields.io/github/followers/bayisagit?style=social)](https://github.com/bayisagit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://proghubs.vercel.app)
+
   ---
 <p align="center">
  <img width="1000" src="main/github-snake.svg" alt="snake"/>
@@ -38,5 +44,33 @@ I'm a Software Engineering Student.
 ### 🔥 My GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=bayisagit&theme=gruvbox&border_radius=4.5)
 #
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bayisagit&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayisagit&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:bayisa615@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Mercyk12">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="tel:+251955115971">
+    <img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
  
 
