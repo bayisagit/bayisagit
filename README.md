@@ -44,6 +44,11 @@ I'm a Software Engineering Student.
 ### 🔥 My GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=bayisagit&theme=gruvbox&border_radius=4.5)
 #
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayisagit&layout=compact&theme=tokyonight&border_radius=20" width="49%" alt="Top Languages" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bayisagit&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="Trophy" />
 </p>
