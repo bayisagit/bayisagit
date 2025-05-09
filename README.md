@@ -6,6 +6,7 @@
 I'm a Software Engineering Student. 
 
 [![GitHub followers](https://img.shields.io/github/followers/bayisagit?style=social)](https://github.com/bayisagit)
+[![Resume](https://img.shields.io/badge/CV-View-informational)](https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://proghubs.vercel.app)
