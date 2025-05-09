@@ -11,6 +11,8 @@ I'm a Software Engineering Student.
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://proghubs.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/bayisa615)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-brightgreen)](https://leetcode.com/u/bayisa)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Visit-brightgreen)](https://codeforces.com/profile/baysa)
   ---
 <p align="center">
  <img width="1000" src="main/github-snake.svg" alt="snake"/>
