@@ -9,7 +9,7 @@ I'm a Software Engineering Student.
 [![Resume](https://img.shields.io/badge/CV-View-informational)](https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://app.netlify.com/projects/bayisaportfolio/overview)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://bayisaportfolio.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/bayisa615)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-brightgreen)](https://leetcode.com/u/bayisa)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Visit-brightgreen)](https://codeforces.com/profile/baysa)
