@@ -5,15 +5,15 @@
 
 I'm a Software Engineering Student. 
 
-[![GitHub followers](https://img.shields.io/github/followers/bayisagit?style=social)](https://github.com/bayisagit)
-[![Resume](https://img.shields.io/badge/CV-View-informational)](https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://bayisaportfolio.netlify.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/bayisa615)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-brightgreen)](https://leetcode.com/u/bayisa)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Visit-brightgreen)](https://codeforces.com/profile/baysa)
-  ---
+[![GitHub followers](https://img.shields.io/github/followers/bayisagit?style=social)](https://github.com/bayisagit){:target="_blank"}
+[![Resume](https://img.shields.io/badge/CV-View-informational)](https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/){:target="_blank"}
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12){:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://bayisa-daba-portfolio.netlify.app/){:target="_blank"}
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/bayisa615){:target="_blank"}
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-brightgreen)](https://leetcode.com/u/bayisa){:target="_blank"}
+[![Codeforces](https://img.shields.io/badge/Codeforces-Visit-brightgreen)](https://codeforces.com/profile/baysa){:target="_blank"}
+ ---
 <p align="center">
  <img width="1000" src="main/github-snake.svg" alt="snake"/>
 </p>
@@ -46,7 +46,6 @@ I'm a Software Engineering Student.
 
 ### 🔥 My GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=bayisagit&theme=gruvbox&border_radius=4.5)
-#
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayisagit&layout=compact&theme=tokyonight&border_radius=20" width="49%" alt="Top Languages" />
@@ -63,22 +62,20 @@ I'm a Software Engineering Student.
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:bayisa615@gmail.com">
+  <a href="mailto:bayisa615@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/">
+  <a href="https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/Mercyk12">
+  <a href="https://t.me/Mercyk12" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="tel:+251955115971">
+  <a href="tel:+251955115971" target="_blank">
     <img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
- 
-
