@@ -5,15 +5,39 @@
 
 I'm a Software Engineering Student. 
 
-[![GitHub followers](https://img.shields.io/github/followers/bayisagit?style=social)](https://github.com/bayisagit){:target="_blank"}
-[![Resume](https://img.shields.io/badge/CV-View-informational)](https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/){:target="_blank"}
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Mercyk12){:target="_blank"}
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://bayisa-daba-portfolio.netlify.app/){:target="_blank"}
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/bayisa615){:target="_blank"}
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-brightgreen)](https://leetcode.com/u/bayisa){:target="_blank"}
-[![Codeforces](https://img.shields.io/badge/Codeforces-Visit-brightgreen)](https://codeforces.com/profile/baysa){:target="_blank"}
- ---
+<a href="https://github.com/bayisagit" target="_blank">
+  <img src="https://img.shields.io/github/followers/bayisagit?style=social" />
+</a>
+
+<a href="https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view" target="_blank">
+  <img src="https://img.shields.io/badge/CV-View-informational" />
+</a>
+
+<a href="https://www.linkedin.com/in/bayisa-daba%F0%9F%92%BB-a9230b316/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+</a>
+
+<a href="https://t.me/Mercyk12" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Chat-blue" />
+</a>
+
+<a href="https://bayisa-daba-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" />
+</a>
+
+<a href="https://web.facebook.com/bayisa615" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/bayisa" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Visit-brightgreen" />
+</a>
+
+<a href="https://codeforces.com/profile/baysa" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-Visit-brightgreen" />
+</a>
+
+
 <p align="center">
  <img width="1000" src="main/github-snake.svg" alt="snake"/>
 </p>
