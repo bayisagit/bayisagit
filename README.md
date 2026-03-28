@@ -9,7 +9,7 @@ I'm a Software Engineering Student.
   <img src="https://img.shields.io/github/followers/bayisagit?style=social" />
 </a>
 
-<a href="https://drive.google.com/file/d/1Ki05fKAkt9fQ-zEUMKOc7HB1vbChaeaq/view" target="_blank">
+<a href="https://drive.google.com/file/d/1qtUipvy3usOvPuUQkztGfkJga8GjwGE0/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/CV-View-informational" />
 </a>
 
